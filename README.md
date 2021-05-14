@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a Senior Software Engineer at World Wide Technology, Inc. and Technical Lead for [WWT's Workflow open source project](https://github.com/wwt/Workflow).
+I'm a Senior Software Engineer at [World Wide Technology, Inc.](https://www.wwt.com/) and Technical Lead for [WWT's Workflow open source project](https://github.com/wwt/Workflow).
 
 ### 🔭 What I'm currently working on
 [Workflow](https://github.com/wwt/Workflow)!  It's amazing and you should definitely check it out!
