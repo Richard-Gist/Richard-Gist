@@ -1,4 +1,12 @@
 ### Hi there 👋
+I'm a Senior Software Engineer at World Wide Technology, Inc. and Technical Lead for [WWT's Workflow open source project](https://github.com/wwt/Workflow).
+
+### 🔭 What I'm currently working on
+[Workflow](https://github.com/wwt/Workflow)!  It's amazing and you should definitely check it out!
+Otherwise, I love Swift and I've been digging into it a lot.
+
+### 😄 Pronouns
+He/Him/His
 
 <!--
 **Richard-Gist/Richard-Gist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
