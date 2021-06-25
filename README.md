@@ -1,8 +1,8 @@
 ### Hi there 👋
-I'm a Senior Software Engineer at [World Wide Technology, Inc.](https://www.wwt.com/) and Technical Lead for [WWT's Workflow open source project](https://github.com/wwt/Workflow).
+I'm a Senior Software Engineer at [World Wide Technology, Inc.](https://www.wwt.com/) and Technical Lead for [WWT's SwiftCurrent open source project](https://github.com/wwt/SwiftCurrent).
 
 ### 🔭 What I'm currently working on
-[Workflow](https://github.com/wwt/Workflow)!  It's amazing and you should definitely check it out!
+[SwiftCurrent](https://github.com/wwt/SwiftCurrent)!  It's amazing and you should definitely check it out!
 Otherwise, I love Swift and I've been digging into it a lot.
 
 ### 😄 Pronouns
