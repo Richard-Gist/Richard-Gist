@@ -8,6 +8,14 @@ Otherwise, I love Swift and I've been digging into it a lot.
 ### 😄 Pronouns
 He/Him/His
 
+### Github Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Richard-Gist&show_icons=true&theme=radical&count_private=true" />
+</a>
+<!-- <a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Richard-Gist&layout=compact&theme=radical" />
+</a> -->
+
 <!--
 **Richard-Gist/Richard-Gist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
