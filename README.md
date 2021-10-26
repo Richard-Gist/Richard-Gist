@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a Senior Software Engineer at [World Wide Technology, Inc.](https://www.wwt.com/) and Technical Lead for [WWT's SwiftCurrent open source project](https://github.com/wwt/SwiftCurrent).
+I'm a Senior Software Engineer at [World Wide Technology](https://www.wwt.com/) and Technical Lead for [WWT's SwiftCurrent open source project](https://github.com/wwt/SwiftCurrent).
 
 ### 🔭 What I'm currently working on
 [SwiftCurrent](https://github.com/wwt/SwiftCurrent)!  It's amazing and you should definitely check it out!
