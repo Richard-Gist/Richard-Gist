@@ -1,9 +1,8 @@
 ### Hi there 👋
-I'm a Senior Software Engineer at [World Wide Technology](https://www.wwt.com/) and Technical Lead for [WWT's SwiftCurrent open source project](https://github.com/wwt/SwiftCurrent).
+I'm a Software Engineer at [Academia.edu](https://www.academia.edu/).
 
 ### 🔭 What I'm currently working on
-[SwiftCurrent](https://github.com/wwt/SwiftCurrent)!  It's amazing and you should definitely check it out!
-Otherwise, I love Swift and I've been digging into it a lot.
+I'm working on the [Academia.edu iOS app](https://apps.apple.com/us/app/academia-edu/id1385234213).
 
 ### 😄 Pronouns
 He/Him/His
