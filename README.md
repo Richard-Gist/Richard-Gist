@@ -1,11 +1,11 @@
 ### Hi there 👋
-I'm a Software Engineer at [Academia.edu](https://www.academia.edu/).
+I'm a Senior Software Engineer.
 
 ### 🔭 What I'm currently working on
-I'm working on the [Academia.edu iOS app](https://apps.apple.com/us/app/academia-edu/id1385234213).
+I'm working on a private project and skilling up in SwiftUI, Combine, async/await, and all other goodies in the latest versions of iOS.
 
 ### 😄 Pronouns
-He/Him/His
+He/Him
 
 ### Github Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
